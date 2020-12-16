@@ -2,7 +2,7 @@
 	"name": "demo",
 	"version": "1.0.0",
 	"description": "A simple CAP project.",
-	"repository": "<Add your repository here>",
+	"repository": "https://github.com/Dhirajdhakate/ABAP_test.git",
 	"license": "UNLICENSED",
 	"private": true,
 	"dependencies": {
